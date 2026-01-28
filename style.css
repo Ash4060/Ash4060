@@ -1,1 +1,45 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Poppins, sans-serif;
+}
+
+/* Dark Theme */
+.hero-header {
+    min-height: 100vh;
+    background: #222;
+}
+
+/* Navigation */
+.logo i {
+    background-color: #007ced;
+    border-radius: 50%;
+    color: #fff;
+}
+
+/* Hero Section */
+.hero-text h1 {
+    color: #007ced;
+    font-size: 3rem;
+}
+
+.hero-pic img:hover {
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 30px;
+    border: 2px solid #e5e5e5;
+    padding: 12px 25px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+}
 
