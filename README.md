@@ -1,8 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# Arshad Khan
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Undergrad student (Developer/Artist/Photographer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
+Heyo, wasup! Welcome to here. I would recommend to stay and enjoy a bit of cozziness here.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
