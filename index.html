@@ -1,1 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rishika Gupta</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <style>
+        html { scroll-behavior: smooth; }
+    </style>
+</head>
+<body>
+
+<!-- HERO SECTION -->
+<div class="hero-header">
+    <div class="wrapper">
+        <header>
+            <div class="logo">
+                <i class="fa-solid fa-r"></i>
+                <div class="logo-text">Rishika Gupta</div>
+            </div>
+
+            <nav>
+                <div class="togglebtn">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <ul class="navlinks">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="https://drive.google.com/file/d/1AL4rOR9A3cdc-NKPLIW9CdBQzczuig_s/view">Resume</a></li>
+                    <li><a href="#contact_row">Hobbies</a></li>
+                    <li><a href="#contact_row">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div class="container">
+            <div class="hero-pic">
+                <img src="https://mir-s3-cdn-cf.behance.net/user/230/081f3b467472683.6626007325fc1.jpg" alt="profile pic">
+            </div>
+
+            <div class="hero-text">
+                <h5>Hi I'm <span class="input">UI/UX Designer</span></h5>
+                <h1>Rishika Gupta</h1>
+                <p>
+                    Enthusiastic and detail-oriented designer with a strong academic foundation
+                    in design principles and a passion for creating intuitive and visually
+                    appealing user experiences.
+                </p>
+
+                <div class="btn-group">
+                    <a href="#contact_row" class="btn active">Contact Me</a>
+                </div>
+
+                <div class="social">
+                    <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="https://www.linkedin.com/in/rishika-gupta-a48792317/" target="_main"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="https://www.instagram.com/rishiglam" target="_main"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="#"><i class="fa-brands fa-dribbble"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- TYPED JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.min.js"></script>
+<script>
+    var typed = new Typed(".input", {
+        strings: ["UI/UX Designer", "UX Developer"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
+
+    document.querySelector(".togglebtn").addEventListener("click", function() {
+        this.classList.toggle("click");
+        document.querySelector(".navlinks").classList.toggle("open");
+    });
+</script>
+
+</body>
+</html>
 
