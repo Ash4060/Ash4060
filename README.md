@@ -47,7 +47,6 @@ Heyo, wasup! Welcome to here. I would recommend to stay and enjoy a bit of cozzi
 <!--
 <details>
  <summary><h3>👨‍💻 Code by Arshad</h3></summary>
-   I started coding back when I very young. Not that, I knew what I was doing, it was sjust messing around, trying to figure out what does these machines have so intriguing in them.
+   I started coding back when I was young. Not that, I knew what I was doing, it was me, just messing around, trying to figure out what does these machines have so intriguing in them.
 -->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+[website]:
