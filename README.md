@@ -42,7 +42,7 @@ Heyo, wasup! Welcome to here. I would recommend to stay and enjoy a bit of cozzi
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Ash4060&theme=gruvbox&border_radius=4.5) -->
 #
 <!--
 <details>
