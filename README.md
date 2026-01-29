@@ -1,8 +1,8 @@
-# Arshad Khan
+# 🏄‍♂️ Forrest Knight
 
-**`Undergrad student (Developer/Artist/Photographer)`**
+**`Undergrad Student (Designer, Coder and sometimes an Artist)`**
 
-Heyo, wasup! Welcome to here. I would recommend to stay and enjoy a bit of cozziness here.
+Hey wasup, Arshad here. Enjoy and mess around here. 
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -42,11 +42,10 @@ Heyo, wasup! Welcome to here. I would recommend to stay and enjoy a bit of cozzi
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Ash4060&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 #
-<!--
 <details>
- <summary><h3>👨‍💻 Code by Arshad</h3></summary>
-   I started coding back when I was young. Not that, I knew what I was doing, it was me, just messing around, trying to figure out what does these machines have so intriguing in them.
--->
-[website]:
+ <summary><h3>👨‍💻Arshad's Journey </h3></summary>
+  
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight
